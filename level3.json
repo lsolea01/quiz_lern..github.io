@@ -1,0 +1,192 @@
+[
+  {"question":"Replacing string from left hand side is known as",
+    "answer1":"Slicing",
+    "answer2":"Dicing",
+    "answer3":"Trailing",
+    "answer4":"Leading",
+    "correct":"4",
+    "score":"30"
+  }
+,{"question":"A function that capitalizes first letter of each word in a string, is a",
+  "answer1":"strtupper ( ) function",
+  "answer2":"strword ( ) function",
+  "answer3":"unwords ( ) function",
+  "answer4":"ucfirst ( ) function",
+  "correct":"3",
+  "score":"30"
+}
+,{"question":"Case functions are used for",
+  "answer1":"Changing lowercase to uppercase",
+  "answer2":"Changing the length of string",
+  "answer3":"String replacement functions",
+  "answer4":"Searching functions",
+  "correct":"1",
+  "score":"30"
+}
+,{"question":"Chop ( ), ltrim ( ) and trim functions are used for",
+  "answer1":"Slicing",
+  "answer2":"Dicing",
+  "answer3":"Cleaning up untidy strings",
+  "answer4":"Concatenation of strings",
+  "correct":"3",
+  "score":"30"
+},
+  {"question":" Which function is identical to Strstr ( )?",
+    "answer1":"Strlen ( )",
+    "answer2":"Strchar ( )",
+    "answer3":"Strcmp ( )",
+    "answer4":"None of them",
+    "correct":"2",
+    "score":"30"
+  }
+,{"question":"Selecting a substring by numerical position is property of",
+  "answer1":"Strstr ( )",
+  "answer2":"Substr ( )",
+  "answer3":"str ( )",
+  "answer4":"Strsub ( )",
+  "correct":"4",
+  "score":"30"
+}
+,{"question":"In substring selection which function modifies a string?",
+  "answer1":"Strchar ( )",
+  "answer2":"Slicing",
+  "answer3":"Dicing",
+  "answer4":"None of them",
+  "correct":"3",
+  "score":"30"
+}
+,{"question":"Which function is used for escaping quotation marks, double quotation marks, backslashes and Nulls from a string?",
+  "answer1":"remove ( )",
+  "answer2":"removeslash( )",
+  "answer3":"addslashes ( )",
+  "answer4":"None of them",
+  "correct":"3",
+  "score":"30"
+}
+,{"question":"Which function returns resulting string as its value?",
+  "answer1":"scanf ( ) function",
+  "answer2":"sprintf ( ) function",
+  "answer3":"None of them",
+  "answer4":"printf ( ) function",
+  "correct":"3",
+  "score":"30"
+},{"question":"Which two functions are used for replacing a string with another string?",
+  "answer1":"Str_replace ( )",
+  "answer2":"Substr_replace ( )",
+  "answer3":"Replace ( )",
+  "answer4":"Both A and B",
+  "correct":"4",
+  "score":"30"
+}
+,{"question":"Which string type is interpreted as a number of sequences and automatically interpolates variable values?",
+  "answer1":"Single quoted string",
+  "answer2":"Doubly quoted string",
+  "answer3":"Numbered string",
+  "answer4":"Both A and B",
+  "correct":"2",
+  "score":"30"
+}
+,{"question":"Which function is used for capitalizing first letter of a string?",
+  "answer1":"strtlower ( )",
+  "answer2":"strtupper ( )",
+  "answer3":"ucfirst ( )",
+  "answer4":"lfirst ( )",
+  "correct":"3",
+  "score":"30"
+}
+,{"question":" In substring selection what's mean of Slicing?",
+  "answer1":"Concatenating",
+  "answer2":"Choosing a portion of a string",
+  "answer3":"Modifying a string",
+  "answer4":"Comparing a string",
+  "correct":"2",
+  "score":"30"
+}
+,{"question":"Concatenating operator is used for",
+  "answer1":"Combining two strings",
+  "answer2":"Comparing two strings",
+  "answer3":"Arrays concatenation",
+  "answer4":"None of them",
+  "correct":"1",
+  "score":"30"
+},{"question":"Returns a string argument with both leading and trailing whitespace removed, is a behavior of",
+  "answer1":"chop ( )",
+  "answer2":"rtrim ( )",
+  "answer3":"trim ( )",
+  "answer4":"ltrim ( )",
+  "correct":"3",
+  "score":"30"
+},
+  {"question":"By first constructing a message string and then shipping it off to receiving program, is a way of communication between PHP and",
+    "answer1":"Database servers",
+    "answer2":"LDAP servers",
+    "answer3":"Sockets",
+    "answer4":"All of them",
+    "correct":"4",
+    "score":"30"
+  }
+,{"question":"For creating pages that contain HTML forms and have multiline strings we can use",
+  "answer1":"Assignment concatenation syntax",
+  "answer2":"Heredoc syntax",
+  "answer3":"Concatenation syntax",
+  "answer4":"None of them",
+  "correct":"2",
+  "score":"30"
+}
+,{"question":"To use proxy server, client must be configured to access proxy instead of the",
+  "answer1":"Proxy Server",
+  "answer2":"Target Server",
+  "answer3":"Domain Server",
+  "answer4":"Original Server",
+  "correct":"2",
+  "score":"30"
+}
+,{"question":"  What does trailing means in replacement of functions?",
+  "answer1":"Replacing string from right hand side",
+  "answer2":"Replacing string from left hand side",
+  "answer3":"Replacing string from middle",
+  "answer4":"None of them",
+  "correct":"1",
+  "score":"30"
+},{"question":"Literal string specified in PHP code by",
+  "answer1":"Single quotation mark",
+  "answer2":"Double Quotation mark",
+  "answer3":"Single dollar sign",
+  "answer4":"Both A and B",
+  "correct":"4",
+  "score":"30"
+},{"question":"Which function start its search from backward rather than from beginning?",
+  "answer1":"Strcmp ( )",
+  "answer2":"Strstr ( )",
+  "answer3":"Strpos ( )",
+  "answer4":"All of them",
+  "correct":"3",
+  "score":"30"
+}
+,{"question":" Which function takes a single string and returns its length as an integer?",
+  "answer1":"Strpos ( )",
+  "answer2":"Strcmp ( )",
+  "answer3":"strstr ( )",
+  "answer4":"Strlen ( ",
+  "correct":"4",
+  "score":"30"
+}
+,{"question":"Strtupper ( ) function returns",
+  "answer1":"All uppercase string",
+  "answer2":"All lowercase string",
+  "answer3":"First letter capitalized",
+  "answer4":"None of them",
+  "correct":"1",
+  "score":"30"
+}
+,
+  {"question":"PHP offers printf ( ) and",
+    "answer1":"printh ( ) function",
+    "answer2":"sprintf ( ) function",
+    "answer3":"scanf ( ) function",
+    "answer4":"All of them",
+    "correct":"2",
+    "score":"30"
+  }
+
+]

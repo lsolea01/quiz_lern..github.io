@@ -1,0 +1,192 @@
+[
+  {"question":"In HTML, active links are specified in color",
+    "answer1":"Green",
+    "answer2":"Gray",
+    "answer3":"Blue",
+    "answer4":"Red",
+    "correct":"4",
+    "score":"10"
+  }
+  ,{"question":"Terminology that is not displayed by a browser is called",
+    "answer1":"HTML tags",
+    "answer2":"Layout",
+    "answer3":"Page margins",
+    "answer4":"Page Tables",
+    "correct":"1",
+    "score":"10"
+  }
+,{"question":"Alpha in RGB extension named RGBA, specifies",
+    "answer1":"Hue",
+    "answer2":"Saturation",
+    "answer3":"Lightness",
+    "answer4":"Opacity",
+    "correct":"4",
+  "score":"10"
+  }
+,{"question":" Documents comprising XHTML, must have",
+    "answer1":"One root element",
+    "answer2":"Two root elements",
+    "answer3":"Multiple root elements",
+    "answer4":"No root elements",
+    "correct":"1",
+  "score":"10"
+  },
+  {"question":"Number of objects required in HTML web storage for storing data on client, are",
+    "answer1":"Two",
+    "answer2":"Three",
+    "answer3":"Four",
+    "answer4":"Five",
+    "correct":"1",
+  "score":"10"
+  }
+  ,{"question":"Function Strcmp ( ) is equals to",
+    "answer1":"Strposs ( )",
+    "answer2":"Strrpos ( )",
+    "answer3":"Stricmp ( )",
+    "answer4":"Strcasecmp",
+    "correct":"4",
+    "score":"10"
+  }
+  ,{"question":"A sequence of characters that is treated as a unit is called",
+    "answer1":"Arrays",
+    "answer2":"Functions",
+    "answer3":"Methods",
+    "answer4":"Strings",
+    "correct":"4",
+    "score":"10"
+  }
+,{"question":" In HTML, visited links are specified in color",
+    "answer1":"Black",
+    "answer2":"White",
+    "answer3":"Red",
+    "answer4":"Purple",
+    "correct":"4",
+  "score":"10"
+  }
+,{"question":"POST method does not display submitted form data in the",
+    "answer1":"Page address domain",
+    "answer2":"Page address path",
+    "answer3":"Page address filename",
+    "answer4":"Page address field",
+    "correct":"4",
+  "score":"10"
+  },{"question":" Extra lines in output of HTML code, creates",
+    "answer1":"Changes",
+    "answer2":"NO changes",
+    "answer3":"Errors",
+    "answer4":"Template",
+    "correct":"2",
+  "score":"10"
+  }
+  ,{"question":"If form data contains sensitive or personal information, method to use is",
+    "answer1":"Post",
+    "answer2":"Get",
+    "answer3":"Set",
+    "answer4":"Append",
+    "correct":"1",
+    "score":"10"
+  }
+  ,{"question":"How many operators PHP offer for strings?",
+    "answer1":"2",
+    "answer2":"3",
+    "answer3":"4",
+    "answer4":"5",
+    "correct":"1",
+    "score":"10"
+  }
+,{"question":"Intensity of a color can be described through",
+    "answer1":"Headings",
+    "answer2":"Hyperlink",
+    "answer3":"HyperText",
+    "answer4":"Html-text",
+    "correct":"1",
+  "score":"10"
+  }
+,{"question":"Which syntax is very useful for specifying large chunks of interpolated variable text?",
+    "answer1":"Single quoted strings",
+    "answer2":"Double quoted strings",
+    "answer3":"Heredoc syntax",
+    "answer4":"Concatenation syntax",
+    "correct":"3",
+  "score":"10"
+  },{"question":"HTML links are defined with \"<xmp></xmp><a\" tag and address is specified by attribute",
+    "answer1":"hlink",
+    "answer2":"href",
+    "answer3":"src",
+    "answer4":"src-link",
+    "correct":"2",
+  "score":"10"
+  },
+  {"question":"For displaying a webpage within a webpage, HTML uses",
+    "answer1":"Classes",
+    "answer2":"Div element",
+    "answer3":"Span Element",
+    "answer4":"Iframes",
+    "correct":"4",
+    "score":"10"
+  }
+  ,{"question":"A block level element of HTML always starts on a",
+    "answer1":"New window",
+    "answer2":"New Tab",
+    "answer3":"New page",
+    "answer4":"New Line",
+    "correct":"4",
+    "score":"10"
+  }
+,{"question":" Ltrim ( ) returns its string argument with",
+    "answer1":"Leading blankspace removed",
+    "answer2":"Trailing blankspace removed",
+    "answer3":"Numerical values",
+    "answer4":"None of them",
+    "correct":"1",
+  "score":"10"
+  }
+,{"question":" An external CS sheet defines style for",
+    "answer1":"Single element",
+    "answer2":"Single HTML page",
+    "answer3":"Multiple elements",
+    "answer4":"Multiple HTML pages",
+    "correct":"4",
+  "score":"10"
+  },{"question":"XML is a",
+    "answer1":"Structural language",
+    "answer2":"Script language",
+    "answer3":"Markup language",
+    "answer4":"Procedural language",
+    "correct":"3",
+  "score":"10"
+  },{"question":"Variables in JavaScript can be converted to a new variable and another data type, by using",
+    "answer1":"JavaScript function",
+    "answer2":"Comparison",
+    "answer3":"Type conversion",
+    "answer4":"Expression parsing",
+    "correct":"1",
+    "score":"10"
+  }
+,{"question":"Basically, XHTML is HTML in combination with",
+    "answer1":"Java",
+    "answer2":"C++",
+    "answer3":"XML",
+    "answer4":"UML",
+    "correct":"3",
+  "score":"10"
+  }
+,{"question":"When two strings are exactly equivalent Strcmp ( ) returns what?",
+    "answer1":"Returns a string",
+    "answer2":"Returns 0",
+    "answer3":"Returns 1",
+    "answer4":"Returns nothing",
+    "correct":"2",
+  "score":"10"
+  }
+,
+  {"question":"For finding out one string is equal to another string which function we can use?",
+    "answer1":"strpid ( )",
+    "answer2":"strpos ( )",
+    "answer3":"str ( )",
+    "answer4":"All of them",
+    "correct":"2",
+  "score":"10"
+  }
+
+]

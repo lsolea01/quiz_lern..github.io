@@ -1,0 +1,192 @@
+[
+  {"question":"Value set by default in the TARGET attribute is",
+    "answer1":"_blank",
+    "answer2":"_parent",
+    "answer3":"_self",
+    "answer4":"_top",
+    "correct":"3",
+    "score":"20"
+  }
+,{"question":"To program behavior of web pages, language used is",
+  "answer1":"HTML",
+  "answer2":"CSS",
+  "answer3":"XML",
+  "answer4":"JavaScript",
+  "correct":"4",
+  "score":"20"
+}
+,{"question":"An element named content have other elements of",
+  "answer1":"2 types",
+  "answer2":"3 types",
+  "answer3":"4 types",
+  "answer4":"5 types",
+  "correct":"1",
+  "score":"20"
+}
+,{"question":"  Returns a string arguments with trilling blank space removed, is a behavior of",
+  "answer1":"starts ( ) function",
+  "answer2":"chop ( ) function",
+  "answer3":"rtrim ( ) function",
+  "answer4":"Both B and C",
+  "correct":"4",
+  "score":"20"
+},
+  {"question":"An applet is a program written in Java on the",
+    "answer1":"Web",
+    "answer2":"Server",
+    "answer3":"Domain",
+    "answer4":"Client",
+    "correct":"2",
+    "score":"20"
+  }
+,{"question":" When an attribute of HTML value contains double quotes, it is necessary to use",
+  "answer1":"Single quotes",
+  "answer2":"Double quotes",
+  "answer3":"Single+Double quotes",
+  "answer4":"No quotes",
+  "correct":"1",
+  "score":"20"
+}
+,{"question":"To let client know about type of document sent, a CGI program creates",
+  "answer1":"Body",
+  "answer2":"Header",
+  "answer3":"Borders",
+  "answer4":"Footer",
+  "correct":"2",
+  "score":"20"
+}
+,{"question":"  Hyper Text Transfer Protocol (HTTP) support",
+  "answer1":"Proxy Domain",
+  "answer2":"Proxy Documents",
+  "answer3":"Proxy Server",
+  "answer4":"Proxy IP",
+  "correct":"3",
+  "score":"20"
+}
+,{"question":"Numeric array values can be sorted through an array method named as",
+  "answer1":"sort()",
+  "answer2":"length.sort()",
+  "answer3":"reverse()",
+  "answer4":"compare()",
+  "correct":"4",
+  "score":"20"
+},{"question":"Div element defines section at a",
+  "answer1":"Page level",
+  "answer2":"Inline level",
+  "answer3":"Block level",
+  "answer4":"Tab level",
+  "correct":"3",
+  "score":"20"
+}
+,{"question":" Internal CSS defines style for",
+  "answer1":"Single element",
+  "answer2":"Single HTML page",
+  "answer3":"Multiple pages",
+  "answer4":"Whole Document",
+  "correct":"2",
+  "score":"20"
+}
+,{"question":"HTML standard that does not require quotes around attribute values is said to be",
+  "answer1":"HTML 1",
+  "answer2":"HTML 3",
+  "answer3":"HTML 5",
+  "answer4":"HTML 7",
+  "correct":"3",
+  "score":"20"
+}
+,{"question":" To create Web Pages we use a term, called",
+  "answer1":"TCP/IP",
+  "answer2":"WWW",
+  "answer3":"HTML",
+  "answer4":"FTP",
+  "correct":"3",
+  "score":"20"
+}
+,{"question":"A browser can retrieve and run an HTML file that has embedded address of",
+  "answer1":"Applets",
+  "answer2":"Language",
+  "answer3":"HTML",
+  "answer4":"HTTP",
+  "correct":"3",
+  "score":"20"
+},{"question":"A HTML element known to be <ins>, defines",
+  "answer1":"Incapsulation",
+  "answer2":"Insertion",
+  "answer3":"Instance",
+  "answer4":"Instantiation",
+  "correct":"2",
+  "score":"20"
+},
+  {"question":" Nontextual information such as digitized photos or graphic images is not a physical part of an",
+    "answer1":"WebPage",
+    "answer2":"WebData",
+    "answer3":"HTML",
+    "answer4":"Web-document",
+    "correct":"3",
+    "score":"20"
+  }
+,{"question":" A JS method named toString() returns",
+  "answer1":"String as a number",
+  "answer2":"Alphanumeric pattern as a string",
+  "answer3":"Number as a string",
+  "answer4":"Exponential as a string",
+  "correct":"3",
+  "score":"20"
+}
+,{"question":"A sequence of characters that is treated as a unit is called",
+  "answer1":"Arrays",
+  "answer2":"Functions",
+  "answer3":"Methods",
+  "answer4":"Strings",
+  "correct":"4",
+  "score":"20"
+}
+,{"question":"When two strings are exactly equivalent Strcmp ( ) returns what?",
+  "answer1":"Returns a string",
+  "answer2":"Returns 0",
+  "answer3":"Returns 1",
+  "answer4":"Returns nothing",
+  "correct":"2",
+  "score":"20"
+},{"question":" For finding out one string is equal to another string which function we can use?",
+  "answer1":"strpid ( )",
+  "answer2":"strpos ( )",
+  "answer3":"str ( )",
+  "answer4":"All of them",
+  "correct":"2",
+  "score":"20"
+},{"question":" Returns a string arguments with trilling blank space removed, is a behavior of",
+  "answer1":"starts ( ) function",
+  "answer2":"chop ( ) function",
+  "answer3":"rtrim ( ) function",
+  "answer4":"Both B and C",
+  "correct":"4",
+  "score":"20"
+}
+,{"question":"Which function is used for replacing whole string with an alternate string?",
+  "answer1":"Strstr ( )",
+  "answer2":"Strrpos ( )",
+  "answer3":"Str_replace ( )",
+  "answer4":"Replace ( )",
+  "correct":"3",
+  "score":"20"
+}
+,{"question":"Stristr ( ) is identical to Strstr ( ) except that",
+  "answer1":"The comparison is case independent",
+  "answer2":"The comparison start from middle",
+  "answer3":"The comparison is case sensitive",
+  "answer4":"None of them",
+  "correct":"1",
+  "score":"20"
+}
+,
+  {"question":" Replacing string from left hand side is known as",
+    "answer1":"Slicing",
+    "answer2":"Dicing",
+    "answer3":"Trailing",
+    "answer4":"Leading",
+    "correct":"4",
+    "score":"20"
+  }
+
+]
